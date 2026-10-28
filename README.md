@@ -1,4 +1,4 @@
-  👋 Hi, My name is Snehal Nakadi!
+- 👋 Hi, My name is Snehal Nakadi!
 - 👩‍💻 I'm an aspiring software developer.
 - 🐍 I'm learning Python and exploring AI & Machine Learning.
 - 🚀 I enjoy building projects and learning new technologies.
